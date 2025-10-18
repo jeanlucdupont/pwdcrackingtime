@@ -4,6 +4,8 @@ Comparing mathematical, AI, and dictionary attack crack time estimation.
 Dictionary is the goat.
 On super complex password though, AI may have an edge.
 
+<img width="739" height="737" alt="image" src="https://github.com/user-attachments/assets/d74bd385-2b80-4e7e-a743-bf4a24590fa4" />
+
 
 The script provides both quantitative and qualitative feedback about password strength, entropy, and estimated crack time across different attack scenarios.
 
@@ -52,6 +54,7 @@ Saves:
 
 
 **Example Output**
+
 <img width="729" height="779" alt="image" src="https://github.com/user-attachments/assets/c24b528e-938d-4477-aa3e-26173d4f65b4" />
 
 <img width="824" height="781" alt="image" src="https://github.com/user-attachments/assets/9d015e9e-6031-42dd-8f28-59a99570a47a" />
